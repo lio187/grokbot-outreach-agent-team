@@ -1,0 +1,11 @@
+CONFIG.md
+.DS_Store
+.env
+.env.*
+*.log
+leads/
+campaigns/
+exports/
+private/
+secrets/
+
